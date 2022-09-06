@@ -1,0 +1,1 @@
+rootProject.name = "ram0973.ktor-sample"
